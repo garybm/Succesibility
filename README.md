@@ -65,4 +65,4 @@ Succesibility was built to show the importance of making a website assessable. I
 * Creating more pages
 * Routing links their proper pages
 * Connecting Instagram to Farmer Market Instagram account
-*  
+
